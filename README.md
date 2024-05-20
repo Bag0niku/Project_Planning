@@ -1,8 +1,6 @@
 # Project_Planning
 
-I am writing this as a reminder and to be a plan to follow for future projects.
-
-This comprehensive outline covers all aspects of planning for your project, from the visual and interactive aspects of the user interface to the security and reliability of the underlying functionality. It provides a structured approach to guide the development process and ensure that the final application meets user needs effectively while maintaining high standards of usability, security, and performance.  Each of these categories and bullet points needs addressed during the planning phase. More will be added as I come up with them.
+This comprehensive outline covers all aspects of planning for your project, from the visual and interactive aspects of the user interface to the security and reliability of the underlying functionality. It provides a structured approach to guide the development process and ensure that the final application meets user needs effectively while maintaining high standards of usability, security, and performance.   Each of these categories and bullet points needs addressed during the planning phase. More will be added as I come up with them. 
 
 
 ### 1. Data Handling and Functionality:
@@ -42,3 +40,5 @@ This comprehensive outline covers all aspects of planning for your project, from
 
 ### **The Project and Git**
 The process will start with Planning as the main branch. Once planning is completed or stopped, to begin building on the project, everything must be built or completed in side branches before merging with the main branch; this includes additional planning. It is considerd best practice to make the plan as detailed as possible in the beginning. being detailed enough can be used as comments in the code or documentation. Doing so will reduce future headaches.
+
+This Project Planning outline can also be used for projects not related to programming.
