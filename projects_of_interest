@@ -1,4 +1,4 @@
-icategories by use case (not in any order):
+projects not in any order:
 
 1) video game mods for my favorite videogames. (no current knowledge)
     a) Deus Ex Series 
@@ -15,7 +15,7 @@ icategories by use case (not in any order):
 4) personal ttrpg character tracker. (web platform & possibly installable)
     a) systems: Pathfinder 1.0, dnd 3.5 & 5.0, nWoD, Rifts/Palladium. add other systems after these.
     b) selectable rules availble in the game based on the source book including alternate rules for game creation. 
-    c) leveling & wishlist system.
+    c) leveling & ability wishlist system.
 
 5) game demos (web or android)
     a) build out computer games for table games my family enjoys and limit the scope to be a game demo. only enough to play and learn the rules.
@@ -25,3 +25,12 @@ icategories by use case (not in any order):
 
 6) web portal for a home server that contains  books, videos & music ranging in subjects from entertainment to science.
     a) purpose is to own data for future personal reference and homeschooling.
+    b) Read and display the files.
+
+7) world of warcraft marketplace analysis.
+    a) web portal & dashboards
+    b) commodity sale tracking
+    c) ML recommendations for purchase and resale.
+    d) ML recommendation timing for gathering and sales.
+
+8) Expand Oregon vineyards to include current  tastings at the vineyards. 
